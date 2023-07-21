@@ -1,13 +1,14 @@
 {
   "name": "Martin Bedsted Nagel",
+  "phone": "27629458",
   "email": "Martinbnagel@outlook.com",
-  "description": "Hvis nogen spørgsmål eller andet, så kontakt mig her",
+  "description": "Mobil: +45 27 62 94 58 (Fix det her)",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "src": "../../images/ManaKaffe.png",
+    "alt": "Manakaffe Logo"
   },
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["Mail"],
     "showIcons": true
   }
 }

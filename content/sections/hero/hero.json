@@ -8,15 +8,15 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "ManaKaffe",
+  "title": "Velkommen til ManaKaffe!",
   "subtitle": {
     "prefix": "Kaffe med ærlighed & passion ",
-    "highlight": "til dig!",
+    "highlight": "til dig",
     "suffix": "."
   },
-  "description": "Velkommen til min online kaffebiks, jeg håber jeg kan tilbyde dig noget helt specielt!",
+  "description": "I min online kaffebiks, håber jeg at du finder dig noget helt specielt!",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": [],
     "showIcons": false
   }
 }

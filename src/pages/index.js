@@ -16,11 +16,9 @@ export default function IndexPage() {
       <Seo title="ManaKaffe - Frisk ristet til dig" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
-        <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
-        <AboutSection sectionId="about" heading="About Portfolio Minimal" />
-        <InterestsSection sectionId="details" heading="Details" />
-        <ProjectsSection sectionId="features" heading="Built-in Features" />
-        <ContactSection sectionId="github" heading="Problemer?" />
+        <ProjectsSection sectionId="produkter" heading="Min kaffe" />
+        <AboutSection sectionId="omkringmig" heading="Omkring mig" />
+        <ContactSection sectionId="kontakt" heading="Er du interreseret i kaffe? Eller er der et problem, så kontakt mig endelig!" />
       </Page>
     </>
   );

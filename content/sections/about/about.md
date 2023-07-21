@@ -1,14 +1,13 @@
 ---
 imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageAlt: "Manakaffe"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+1. Skriv lidt om mig, hvad jeg gør og min website
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+2. Skift billede med et af mig
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+Lorem ipsum dolor sit amet. Est nostrum voluptatibus est minima accusamus ex galisum assumenda? Qui internos perferendis qui fugiat fugiat sit velit natus et iste modi sed soluta commodi.
+ Qui aspernatur delectus ut rerum perferendis a soluta quidem non quae placeat ut quia blanditiis ut aperiam quidem in alias galisum. Aut sint consequuntur ut nihil molestiae qui assumenda galisum ut minus rerum eum omnis molestiae a iste pariatur? Aut fuga labore non reiciendis minima et esse excepturi ad dolores consectetur.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+Aut amet fugit eos dolorem voluptate hic velit labore ea temporibus quibusdam non officia aperiam sit consequatur sunt id alias voluptatem. Et corporis quae sit saepe dolores aut tempore rerum est voluptate repudiandae hic dicta internos vel necessitatibus veritatis sed unde repudiandae.
