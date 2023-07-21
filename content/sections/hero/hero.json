@@ -1,0 +1,22 @@
+{
+  "intro": "Hej",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "ManaKaffe",
+  "subtitle": {
+    "prefix": "Kaffe med ærlighed & passion ",
+    "highlight": "til dig!",
+    "suffix": "."
+  },
+  "description": "Velkommen til min online kaffebiks, jeg håber jeg kan tilbyde dig noget helt specielt!",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": false
+  }
+}
